@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 📫 How to reach me: ...</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/<TechBlog>-<brightgreen>" href="https://miro7923.github.io/"><br>
-  miro7923@gmail.com
+  <a href="https://miro7923.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen"><br>
+  <a href="mailto:miro7923@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
