@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning ...
--   C++, JAVA, javascript, HTML, CSS, SQLPlus<br><br>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 
 - 📫 How to reach me: ...
 -   https://miro7923.github.io/<br>
