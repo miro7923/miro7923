@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -   C++, JAVA, javascript, HTML, CSS, SQLPlus<br><br>
 
 - 📫 How to reach me: ...
--   miro7923.github.io<br>
+-   https://miro7923.github.io/<br>
 -   miro7923@gmail.com
