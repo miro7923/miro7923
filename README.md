@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💻 Tech Stack 💻<br>
-### Techs that I've used at least once<br>
-<div>
+<h3 align="center"> 💻 Tech Stack 💻</h3>
+<h4 align="center"> Techs that I've used at least once</h4>
+
+<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp 
@@ -31,8 +32,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
-</div>
+</p>
 
-## 📫 How to reach me: ...
--   https://miro7923.github.io/<br>
--   miro7923@gmail.com
+<h3 align="center"> 📫 How to reach me: ...</h3>
+<p align="center">
+  https://miro7923.github.io/<br>
+  miro7923@gmail.com
+</p>
