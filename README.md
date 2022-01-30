@@ -1,5 +1,5 @@
-# Yujin Hwang
-### Hi there 👋<br>
+<h1 align="center"> Yujin Hwang</h1>
+<h3 align="center"> Hi there 👋</h3>
 
 <!--
 **miro7923/miro7923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
