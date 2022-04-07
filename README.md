@@ -46,3 +46,4 @@ Here are some ideas to get you started:
 </p>
 
 [![Yujin's github stats](https://github-readme-stats.vercel.app/api?username=miro7923)](https://github.com/miro7923)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miro7923&layout=compact)](https://github.com/miro7923/github-readme-stats)
