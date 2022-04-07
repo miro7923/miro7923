@@ -44,3 +44,5 @@ Here are some ideas to get you started:
   <a href="https://miro7923.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
   <a href="mailto:miro7923@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
+
+[![Yujin's github stats](https://github-readme-stats.vercel.app/api?username=miro7923)](https://github.com/miro7923)
