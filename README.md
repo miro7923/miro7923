@@ -1,4 +1,4 @@
-<h1 align="center"> Yujin Hwang</h1>
+<h1 align="center"> Sia Hwang</h1>
 <h3 align="center"> Hi there 👋</h3>
 
 <!--
